@@ -1,3 +1,6 @@
+# Portal Cativo Externo para APs Datacom
+
+
 Fluxo do portal cativo:
  
 Etapa 1: /login: do dispositivo do usuário para o portal cativo. O portal responde com um token. Pode exibir a página inicial do portal cativo.
